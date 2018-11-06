@@ -1,7 +1,8 @@
 {
-  "_class": "page",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
-  "do_objectID": "902CADEB-7254-4453-AA58-7AF708B77B8F",
+  "clippingMaskMode": 0,
+  "do_objectID": "1B1E707E-3BCD-4257-8073-C88BB73AE12F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,36 +15,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 1727,
+    "width": 304,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "9ED78081-4378-4602-AB7C-1F5D517CE01F"
-    },
-    {
-      "class": "artboard",
-      "id": "37B37D3F-9643-4B84-9CD9-235555E8FF01"
+      "class": "shapePath",
+      "id": "7A56D3BD-6D01-4EBF-8DDC-E245482DE67F"
     }
   ],
-  "name": "Page 1",
+  "name": "Duplicate control",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,10 +47,13 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "args": {
+        "verticalCount": 11,
+        "verticalGutter": 12
+      }
+    }
+  },
+  "windingRule": 1
 }

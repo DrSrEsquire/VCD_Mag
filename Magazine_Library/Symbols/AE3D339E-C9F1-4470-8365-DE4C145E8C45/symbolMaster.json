@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "9ED78081-4378-4602-AB7C-1F5D517CE01F",
+  "changeIdentifier": 146,
+  "do_objectID": "AE3D339E-C9F1-4470-8365-DE4C145E8C45",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,19 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1815,
-    "width": 320,
-    "x": 380,
-    "y": 167
-  },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 8,
-    "isEnabled": true,
-    "thickGridTimes": 8
+    "height": 41,
+    "width": 134,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,34 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "C2ECC59D-E22E-45D7-98D2-735D9AE088C5"
-    },
-    {
       "class": "text",
-      "id": "C1BACFA4-C58A-4DAE-A1FE-EAB2D8D0F75B"
-    },
-    {
-      "class": "text",
-      "id": "C1AA0915-6BAF-41F8-BC17-6D257E30D614"
-    },
-    {
-      "class": "group",
-      "id": "1AC1C1F1-72CD-4E07-85E3-D500A7F6113E"
+      "id": "18B42A98-279B-4389-85F6-FCDE2B7D80A3"
     }
   ],
-  "name": "Homescreen",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Mobile",
-    "offersLandscapeVariant": 1,
-    "width": 320
-  },
+  "name": "VCD Mag",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,11 +65,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "10DE7B50-512E-4A10-8DBD-97991BE6F40F",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      427
     ]
   }
 }

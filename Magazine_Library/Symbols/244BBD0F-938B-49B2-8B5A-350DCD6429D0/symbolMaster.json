@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "9ED78081-4378-4602-AB7C-1F5D517CE01F",
+  "changeIdentifier": 3,
+  "do_objectID": "244BBD0F-938B-49B2-8B5A-350DCD6429D0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,19 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1815,
-    "width": 320,
-    "x": 380,
-    "y": 167
-  },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 8,
-    "isEnabled": true,
-    "thickGridTimes": 8
+    "height": 145,
+    "width": 304,
+    "x": 754,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,34 +44,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "C2ECC59D-E22E-45D7-98D2-735D9AE088C5"
+      "id": "6302A1C8-4B79-4A41-8E1A-391465310562"
     },
     {
       "class": "text",
-      "id": "C1BACFA4-C58A-4DAE-A1FE-EAB2D8D0F75B"
+      "id": "C8D2B0CF-E436-4915-84C0-2D0B27F9FF3D"
     },
     {
       "class": "text",
-      "id": "C1AA0915-6BAF-41F8-BC17-6D257E30D614"
-    },
-    {
-      "class": "group",
-      "id": "1AC1C1F1-72CD-4E07-85E3-D500A7F6113E"
+      "id": "3CB5CD86-6299-4CF7-A1A2-CD8E9A02C871"
     }
   ],
-  "name": "Homescreen",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Mobile",
-    "offersLandscapeVariant": 1,
-    "width": 320
-  },
+  "name": "Default/Students",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,11 +73,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "421C3F69-836F-4F27-B309-12DDA7D65E7E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      427
     ]
   }
 }
