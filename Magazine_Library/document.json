@@ -15,7 +15,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "27D2ADDE-F23C-45B9-9746-41035121C433",
+  "do_objectID": "DFE0A658-B64D-4FA8-9497-8C65A9CD25DA",
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -34,5 +34,10 @@
   },
   "pages": [
     "Page 1"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
